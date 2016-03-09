@@ -1,0 +1,49 @@
+{
+  "tags": [
+    {
+      "name": "hung",
+      "createdAt": "2016-03-09T04:16:58.174Z",
+      "updatedAt": "2016-03-09T04:16:58.174Z",
+      "tagId": "56dfa3baa5c86e9022785af4"
+    },
+    {
+      "name": "nguyen",
+      "createdAt": "2016-03-09T04:16:58.174Z",
+      "updatedAt": "2016-03-09T04:16:58.174Z",
+      "tagId": "56dfa3baa5c86e9022785af5"
+    }
+  ],
+  "video": {
+    "title": "hello",
+    "description": "hello",
+    "bucket": "hello",
+    "filename": "hello",
+    "embed": "hello",
+    "sourceId": "hello",
+    "duaration": "hello",
+    "length": "hello",
+    "thumbBucket": "hello",
+    "thumb": "hello",
+    "type": 1,
+    "source": "56dfa3b9a5c86e9022785af1",
+    "extention": "string",
+    "createdAt": "2016-03-09T04:16:58.134Z",
+    "updatedAt": "2016-03-09T04:16:58.134Z",
+    "videoId": "56dfa3baa5c86e9022785af2"
+  },
+  "title": "hello",
+  "description": "hello",
+  "url": "helloworld",
+  "content": "hello",
+  "thumbBucket": "hello",
+  "thumb": "hello",
+  "likes": 0,
+  "shares": 0,
+  "pins": 0,
+  "comments": 0,
+  "points": 0,
+  "status": 0,
+  "createdAt": "2016-03-09T04:16:58.144Z",
+  "updatedAt": "2016-03-09T04:16:58.152Z",
+  "feedId": "56dfa3baa5c86e9022785af3"
+}
